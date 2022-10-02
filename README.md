@@ -1,4 +1,4 @@
-# robotsketchmonkey-releases
+# Robot Sketch Monkey releases
 Binary precompiles releases of Robot Sketch Monkey
 
 ## Release 0.1 Alpha
